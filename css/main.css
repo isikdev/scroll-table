@@ -12,7 +12,7 @@
 body {
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
-  overflow: hidden;
+  overflow: hidden; 
 }
 
 .container-fluid {
